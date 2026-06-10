@@ -50,9 +50,8 @@ section {
 footer {
     background-color: #1496d3;
     text-align: center;
-    padding: 10px 0;
-    position: fixed;
-    width: 100%;
+    color: black;
+    font-weigth: bolder;
     bottom: 0;
 }
 h1, h2 {
