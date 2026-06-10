@@ -18,7 +18,9 @@ header {
 
 }
 nav {
-    overflow: hidden;   
+    overflow: hidden; 
+    top:0;
+    left:0;
 }
 nav ul li{
     display: inline;
